@@ -153,19 +153,30 @@ div.banner {
 	justify-content: center;
 	align-items: center;
 }
+
 div.banner > h1 {
 	font-size: 4.6em;
 	font-weight: 800;
 	color: #fff;
 	text-shadow: 4px 4px 30px rgba(0, 0, 0, 0.8);
 }
+
 div.banner > h2 {
 	color: #fff;
 	font-size: 1.8em;
 	letter-spacing: 2px;
 }
 
+.pp {
+	align-items: left;
+	padding-right: 16px;
+}
+
 div.content-area {
 	width: 100%;
 	min-height: 100vh;
+}
+
+.title{
+	align-items: center;
 }
